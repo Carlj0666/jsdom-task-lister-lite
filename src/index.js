@@ -1,6 +1,4 @@
 
-
-
 document.addEventListener("DOMContentLoaded", () => {
   const userForm = document.getElementById("create-task-form");
   userForm.addEventListener("submit", logSubmit);
